@@ -17,6 +17,7 @@ We may disclose User Provided and Automatically Collected Information:
 **Automatic Data Collection**
 
 We may work with analytics companies (Google Analytics for Firebase) to help us understand how the Application is being used, such as the frequency and duration of usage.
+We use AdMob for serving ads. Policies of AdMob could be found here: https://policies.google.com/privacy?hl=en. 
 
 
 **What are my opt-out rights?**
